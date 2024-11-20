@@ -1,1 +1,2 @@
 # Disease-Detector-using-ML
+I propose a model that uses ML algorithms to detect diseases accurately and efficiently. I have trained our model on a dataset of medical records and have tested it on real-world data. The results have shown that our model has achieved high accuracy and has the potential to be used in clinical settings. The use of ML in disease detection can greatly improve the efficiency and accuracy of the diagnosis, enabling early detection and treatment, and ultimately improving patient outcomes.
